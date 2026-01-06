@@ -1,2 +1,4 @@
 # R-programming-assignment
-Repository for R programming assignments 
+Ian Alloway
+LIS4370
+Repository for R Programming Assignments
