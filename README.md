@@ -1,3 +1,6 @@
+Ian Alloway
+LIS4370
+Repository for R Programming Assignments 
 ## Assignment 2: Working with Functions
 
 **Objective:** Debug the `myMean` function.
