@@ -32,4 +32,4 @@ The code successfully produced a structured table showing the candidates and the
 
 **Blog Post:**
 Read the full detailed journal entry here:
-[Link to your "R Programming Journal" Blog Post]
+(https://allowayai.substack.com/p/data-frames-and-poll-analysis?r=2y3u61&utm_campaign=post&utm_medium=web&triedRedirect=true)
