@@ -33,3 +33,16 @@ The code successfully produced a structured table showing the candidates and the
 **Blog Post:**
 Read the full detailed journal entry here:
 (https://allowayai.substack.com/p/data-frames-and-poll-analysis?r=2y3u61&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
+## Assignment 4: Hospital Data Visualization
+
+**Objective:** Analyze patient data (N=10) using histograms and boxplots.
+
+**Problem:** The raw data included categorical variables ("bad", "good", "high", "low") and a missing value (NA) that needed to be mapped to numeric binaries (0/1) for plotting.
+
+**Visualizations:**
+1. **Histogram:** Used to visualize the distribution of Blood Pressure values, revealing a wide variance (Range: 32–205).
+2. **Side-by-Side Boxplots:** Used to compare Blood Pressure against the First Doctor's assessment. This revealed that the "Bad" (1) rating captured patients with both extremely low and extremely high blood pressure.
+
+**Blog Post:**
+Read the full detailed journal entry here: [Link to your "R Programming Journal" Blog Post]
