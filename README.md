@@ -45,4 +45,19 @@ Read the full detailed journal entry here:
 2. **Side-by-Side Boxplots:** Used to compare Blood Pressure against the First Doctor's assessment. This revealed that the "Bad" (1) rating captured patients with both extremely low and extremely high blood pressure.
 
 **Blog Post:**
+Read the full detailed journal entry here: (https://allowayai.substack.com/p/visualizing-hospital-data)
+## Assignment 5: Doing Math (Matrix Algebra)
+
+**Objective:** Calculate the determinant and inverse of two matrices (A and B).
+
+**Problem:**
+- **Matrix A (10x10):** Contains integers 1-100. The columns are linearly dependent, resulting in a determinant of 0. Therefore, the matrix is singular and has no inverse.
+- **Matrix B (10x100):** This is not a square matrix. Determinants and inverses are undefined for non-square matrices.
+
+**Results:**
+- `det(A)` = 0
+- `solve(A)` = Error (Singular matrix)
+- `det(B)` & `solve(B)` = Error (Not a square matrix)
+
+**Blog Post:**
 Read the full detailed journal entry here: [Link to your "R Programming Journal" Blog Post]
