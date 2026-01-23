@@ -17,3 +17,19 @@ I redefined the function to use a consistent argument variable (`x`) for both th
 **Blog Post:**
 Read the full detailed journal entry here
 (https://open.substack.com/pub/allowayai/p/debugging-the-mymean-function?r=2y3u61&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+## Assignment 3: Data Frames and Poll Analysis
+
+**Objective:** Clean raw election polling data and organize it into a Data Frame.
+
+**Problem:** The provided raw data contained syntax errors (missing commas, smart quotes) and invalid variable names (spaces). Additionally, the data was unstructured as separate vectors rather than a unified dataset.
+
+**Solution:**
+I cleaned the syntax errors, standardized the variable names to `ABC_Poll` and `CBS_Poll`, and combined the vectors into a single R Data Frame (`poll_results`) for easier analysis.
+
+**Results:**
+The code successfully produced a structured table showing the candidates and their respective poll numbers from both sources.
+
+**Blog Post:**
+Read the full detailed journal entry here:
+[Link to your "R Programming Journal" Blog Post]
