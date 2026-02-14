@@ -1,6 +1,19 @@
-Ian Alloway
-LIS4370
-Repository for R Programming Assignments 
+# R Programming Assignments
+
+**Ian Alloway** | LIS4370 | University of South Florida
+
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
+A collection of R programming assignments demonstrating data manipulation, visualization, and statistical analysis.
+
+## Table of Contents
+
+- [Assignment 2: Working with Functions](#assignment-2-working-with-functions)
+- [Assignment 3: Data Frames and Poll Analysis](#assignment-3-data-frames-and-poll-analysis)
+- [Assignment 4: Hospital Data Visualization](#assignment-4-hospital-data-visualization)
+- [Assignment 5: Matrix Algebra](#assignment-5-doing-math-matrix-algebra)
+
 ## Assignment 2: Working with Functions
 
 **Objective:** Debug the `myMean` function.
